@@ -2,7 +2,7 @@ import React from "react";
 import { ReactTyped as Typed } from "react-typed"; // Correctly import react-typed
 import "./HeroSection.css";
 import profilePhoto from "./data/propic.jpg"; // Replace with your profile photo path
-import resume from "./data/my_resume.pdf"; // Replace with your resume file path
+import resume from "./data/bhagya_ekanayake.pdf"; // Replace with your resume file path
 
 
 function HeroSection() {
